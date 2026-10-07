@@ -80,7 +80,7 @@ if (sections.length > 0) {
             }
         });
     });
-}``
+}
 
 //featured products slider
 document.addEventListener("DOMContentLoaded", function () {
